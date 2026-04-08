@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "subject": "Urgent: Server Down",
+    "body": "The main server is down, needs immediate attention.",
+    "sender": "it-support@company.com"
+  },
+  {
+    "id": "2",
+    "subject": "Security Breach Alert",
+    "body": "A potential security breach was detected in the system.",
+    "sender": "security@company.com"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "subject": "Welcome to the Team",
+    "body": "We're excited to have you join us. Let’s connect!",
+    "sender": "hr@company.com"
+  },
+  {
+    "id": "2",
+    "subject": "Welcome Survey",
+    "body": "Please complete the welcome survey by end of day.",
+    "sender": "hr@company.com"
+  }
+]

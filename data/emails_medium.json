@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "subject": "Team Outing Reminder",
+    "body": "Reminder: Our team outing is scheduled for Friday at 3 PM.",
+    "sender": "hr@company.com"
+  },
+  {
+    "id": "2",
+    "subject": "Quarterly Budget Review",
+    "body": "Please submit your department's budget review by end of day tomorrow.",
+    "sender": "finance@company.com"
+  }
+]
